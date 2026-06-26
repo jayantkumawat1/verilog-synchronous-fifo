@@ -1,6 +1,3 @@
-
-
-
 module FIFO_buffer(clk,s_reset,write_data,wr_en,full,rd_en,read_data,empty);
 
 // Inputs
