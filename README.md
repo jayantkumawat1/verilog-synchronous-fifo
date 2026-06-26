@@ -20,4 +20,7 @@ While working on this project, I learned a lot about pointer wrap-around, parame
 * Icarus Verilog
 * GTKWave
 
-I'm currently learning RISC-V and will keep adding more digital design projects here as I continue exploring RTL design.
+ ## Notes
+
+I've uploaded my handwritten notes along with this project. The handwriting may require a bit of patience 😄, but they document my learning process, design sketches, and the reasoning behind different parts of the FIFO implementation.
+
